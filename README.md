@@ -2,7 +2,7 @@
 
 ---
 
-The two animations below (2d and 3d) were both created with **react-three-fiber**.
+The two animations below (2d and 3d) were both created with **react-three-fiber**. It was also a lesson in how to use webpack to transpile React code without using "create-react-app".
 
 |                                    2D                                    |                                    3D                                    |
 | :----------------------------------------------------------------------: | :----------------------------------------------------------------------: |
