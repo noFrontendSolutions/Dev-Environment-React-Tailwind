@@ -2,7 +2,7 @@
 
 ---
 
-The two animations below (2d and 3d) were both created with **react-three-fiber**.. Beside creating the two animations, the project has also been a lesson in how to use **webpack** to transpile **React** code without using **create-react-app**. I've used the lessons I've learned to to build my own fullstack React development environment: [CRASSR](https://github.com/noFrontendSolutions/crassr)
+The two animations below (2d and 3d) were both created with **react-three-fiber**. Beside creating the two animations, the project has also been a lesson in how to use **webpack** to transpile **React** code without using **create-react-app**. I've used the lessons I've learned to to build my own fullstack React development environment: [CRASSR](https://github.com/noFrontendSolutions/crassr)
 
 |                                    2D                                    |                                    3D                                    |
 | :----------------------------------------------------------------------: | :----------------------------------------------------------------------: |
